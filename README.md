@@ -1,2 +1,2 @@
-# duplexer-radarr-api
-An API class designed for Duplexer
+# Radarr Wrapper for Duplexer
+An API wrapper designed for [Duplexer](https://github.com/marchershey/duplexer)
