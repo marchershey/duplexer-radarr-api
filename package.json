@@ -1,6 +1,6 @@
 {
   "name": "@marchershey/duplexer-radarr-wrapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An API Wrapper designed for Duplexer, but can be used on any project.",
   "main": "main.js",
   "scripts": {
