@@ -1,0 +1,17 @@
+{
+    "name": "marchershey/duplexer-radarr-wrapper",
+    "description": "An API wrapper designed for Duplexer but can be used on any project.",
+    "license": "MIT",
+    "authors": [ {
+        "name": "Marc Hershey",
+        "email": "marchershey@users.noreply.github.com"
+    } ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "marchershey\\Radarr\\": "src/"
+        }
+    }
+}
