@@ -1,0 +1,29 @@
+{
+  "name": "@marchershey/duplexer-radarr-wrapper",
+  "version": "1.0.2",
+  "description": "An API Wrapper designed for Duplexer, but can be used on any project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marchershey/duplexer-radarr-wrapper.git."
+  },
+  "keywords": [
+    "radarr",
+    "duplexer",
+    "api",
+    "php",
+    "wrapper"
+  ],
+  "author": "Marc Hershey (https://github.com/marchershey)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marchershey/duplexer-radarr-wrapper/issues"
+  },
+  "homepage": "https://github.com/marchershey/duplexer-radarr-wrapper#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
